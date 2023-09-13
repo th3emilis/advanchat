@@ -12,6 +12,9 @@ Other features include UI fixes, such as proper focus state effect for buttons, 
 
 Some features are only available by enabling the extension packs bundled with the base add-on. If you do not plan to use any of the additional features, simply delete the extension packs. If you change your mind, reinstall the add-on to recover them.
 
+![In-game screenshot showcasing autocomplete feature. Text box content reads "/give @s air".](assets/picture_0.png)
+![In-game screenshot showcasing previous message feature. Text box content reads "Created by Th3Emilis".](assets/picture_1.png)
+
 ## Terms of Use
 
 By downloading, using or interacting in any way with this add-on, you agree to the following terms:
