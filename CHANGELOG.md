@@ -2,6 +2,13 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 1.3.0 - 06 January 2024
+
+- You can now choose to turn off the chat filter.
+- Improved compatibility with other add-ons.
+- Updated translations.
+- Added support for Minecraft 1.20.51.
+
 ## 1.2.0 - 13 September 2023
 
 - Added translations for 13 languages.
