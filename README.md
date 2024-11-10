@@ -1,19 +1,46 @@
 # Advanchat
 
-Created by [Th3Emilis](https://github.com/th3emilis)
+> Created by [Th3Emilis](https://github.com/th3emilis)
 
-Typing and using commands are frustrating tasks for touch players. Advanchat is here to enhance this experience by adding keyboard shortcut-locked abilities, such as autocompletion and message history, at the press of a button. It is time to enjoy the chat screen experience like keyboard players do.
+Originally designed to improve the chat screen for touch players, the new Advanchat goes beyond that, introducing features and tweaks that mobile, PC, and console players can all enjoy. Command autocomplete, message history, and more, for everyone.
 
 ## Features
 
-Advanchat aims to simplify the chat screen experience of touch players by introducing buttons for chat features that are normally only accessible through key bindings. These features are the convenient autocomplete and the handy message history. Use the new tab buttons to autocomplete your commands and the arrow buttons to navigate between your previous messages and send them again.
+### Autocomplete buttons
+Use the tab buttons to autocomplete your commands.
 
-Other features that Advanchat brings are the ability to prevent the chat screen from closing when taking damage, the option to turn off the chat filter, and UI fixes to refine the look and experience of the chat screen interface even more.
+![In-game screenshot showcasing the autocomplete feature. Text box content reads, “/setblock ~ ~ ~ bedrock”.](assets/screenshot_0.png)
 
-Some features are only available via the different extension packs bundled with the base add-on. If you are not interested in any of the optional features, feel free to delete the extension packs. Should you ever change your mind, reinstalling the add-on is all you have to do in order to recover them.
+### Message history buttons
+Use the arrow buttons to navigate between your previous messages and send them again.
 
-![In-game screenshot showcasing autocomplete feature. Text box content reads "/give @s air".](assets/screenshot_0.png)
-![In-game screenshot showcasing previous message feature. Text box content reads "Created by Th3Emilis".](assets/screenshot_1.png)
+![In-game screenshot showcasing the message history feature. Text box content reads, “Created by Th3Emilis”.](assets/screenshot_1.png)
+
+### Uninterrupted typing
+Prevent the chat screen from closing when taking damage.
+
+![In-game screenshot showcasing the uninterrupted typing feature. Text box content reads, “Nothing can stop me from finishing my message!”.](assets/screenshot_2.png)
+
+### No chat filter
+Display the contents of messages that would otherwise show up as a sequence of number signs.
+
+![In-game screenshot comparing the way EpicTh3Emilis’s message is displayed in vanilla Minecraft versus with Advanchat activated. The revealed message is redacted.](assets/screenshot_3.png)
+
+### Autocomplete buttons for command blocks
+The tab buttons can also be used in command blocks. You can choose between two different layouts, based on your preferences.
+
+![In-game screenshot comparing the new layout (with tab buttons at the top-right of the screen) and the old layout (with tab buttons at the bottom-right of the screen).](assets/screenshot_4.png)
+
+### UI tweaks and details
+The add-on includes minor UI fixes to refine the look and experience of the chat screen interface even more.
+
+![In-game screenshot showcasing the following UI tweaks and details: improved icons, consistency fixes, and adaptive icons.](assets/screenshot_5.png)
+
+## Extension Packs
+
+Some features are only available via the extension packs bundled with the base add-on. To access those features, you must enable the appropriate extension packs.
+
+Extension packs only work when used alongside the base pack, but the base pack can be used on its own. So, if you are not looking forward to using any of the features provided by the extension packs, you can delete them to save up space. If you ever change your mind, simply reinstall the add-on to recover the extension packs.
 
 ## Terms of Use
 
@@ -25,4 +52,4 @@ By downloading, installing, accessing, using or interacting in any way with this
 
 ## Feedback
 
-For any suggestions, bugs or help, you are invited to join the Discord community at [https://discord.gg/skqthyTkBQ](https://discord.gg/skqthyTkBQ).
+For any suggestions, bugs or help, feel free to [join the Discord community](https://discord.gg/skqthyTkBQ).
