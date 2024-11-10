@@ -2,6 +2,17 @@
 
 All notable changes to this add-on will be documented in this file.
 
+## 1.4.0 - 10 November 2024
+
+- Autocomplete buttons are now positioned next to the paste button in the command block screen.
+    - The previous button layout can still be accessed by adjusting the subpack slider to “Old Layout”.
+- The chat settings button icon now changes according to button hover and pressed states.
+- Improved compatibility with third-party add-ons and future Minecraft versions.
+- Updated translations.
+    - The chat screen title once again includes the phrase “and Commands” when cheats are activated.
+    - Pack name and description are now translated for all languages supported by Minecraft.
+- Added support for Minecraft 1.21.40.
+
 ## 1.3.0 - 06 January 2024
 
 - You can now choose to turn off the chat filter.
