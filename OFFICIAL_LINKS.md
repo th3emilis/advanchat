@@ -5,5 +5,5 @@ When sharing Advanchat with others (i.e., messages, internet posts, video descri
 - https://curseforge.com/minecraft-bedrock/addons/advanchat
 - https://github.com/th3emilis/advanchat
 
-> [!NOTE]
+> [!IMPORTANT]
 > Opting to use one of the links above helps support me and ensures players who want to download the add-on will always have access to the latest version.
