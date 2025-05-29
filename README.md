@@ -2,6 +2,9 @@
 
 > Created by [Th3Emilis](https://github.com/th3emilis)
 
+<a href="https://curseforge.com/minecraft-bedrock/addons/advanchat/download"><img src="https://github.com/user-attachments/assets/c7a0cfb3-24bc-4363-a757-903e2d80ca42" height="56" alt="Get it on CurseForge"></a>
+<a href="https://mcpedl.com/advanchat/#downloads"><img src="https://github.com/user-attachments/assets/8d2314e9-8706-40e5-aabc-53adc1abe75f" height="56" alt="Get it on MCPEDL"></a>
+
 Originally designed to improve the chat screen for touch players, the new Advanchat goes beyond that, introducing features and tweaks that mobile, PC, and console players can all enjoy. Command autocomplete, message history, and more, for everyone.
 
 ## Features
